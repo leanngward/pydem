@@ -3,12 +3,12 @@
 
 ## Initial Set Up Requirements:
 
-Python >= 3.7 <br>
-pip installer <br>
-virtualenv <br>
+1. Python >= 3.7 <br>
+2. pip installer <br>
+3. virtualenv <br>
 
 
-to install the virtualenv, use the following line of code in the command window: <br>
+To install the virtualenv, use the following line of code in the command window: <br>
 `$ pip install --user virtualenv`
 	                                                                  
 
