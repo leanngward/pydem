@@ -17,7 +17,7 @@ To install the virtualenv, use the following line of code in the command window:
 1. Create a new environment using `$ venv myenvname`
 2. Activate environment using `.\myenvname\Scripts\activate`
 3. Save requirements.txt files to desired folder. 
-4. Install needed environment using ` $ pip install -r pipsumpro.txt` 
+4. Install needed environment using ` $ pip install -r requirements.txt` 
 5. Run project file using `$ testcasefix3.py`
 
 
