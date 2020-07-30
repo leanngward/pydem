@@ -12,7 +12,7 @@ to install the virtualenv, use the following line of code in the command window:
 `$ pip install --user virtualenv`
 	                                                                  
 
-#### Running PyDem:
+## Running PyDem:
 
 1. Create a new environment using `$ venv myenvname`
 2. Activate environment using `.\myenvname\Scripts\activate`
