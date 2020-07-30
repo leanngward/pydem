@@ -7,7 +7,8 @@ Python >= 3.7 <br>
 pip installer <br>
 virtualenv <br>
 
-Before running PyDem, use the following set up command: <br>
+
+to install the virtualenv, use the following line of code in the command window: <br>
 `$ pip install --user virtualenv`
 	                                                                  
 
