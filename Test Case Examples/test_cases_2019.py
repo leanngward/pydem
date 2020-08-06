@@ -14,14 +14,14 @@ import h5py
 
 import pickle
 
-from sklearn.gaussian_process import GaussianProcessRegressor
+#from sklearn.gaussian_process import GaussianProcessRegressor
 
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 
 
-import mayavi.mlab as mlab
+#import mayavi.mlab as mlab
 
-from tvtk.api import tvtk, write_data
+#from tvtk.api import tvtk, write_data
 
 import matplotlib.pyplot as plt
 
