@@ -14,14 +14,8 @@ import h5py
 
 import pickle
 
-#from sklearn.gaussian_process import GaussianProcessRegressor
-
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
 
-
-#import mayavi.mlab as mlab
-
-#from tvtk.api import tvtk, write_data
 
 import matplotlib.pyplot as plt
 
@@ -145,9 +139,9 @@ def responses(all_points):
 
 def run_tests():
 
-    scale0 = False
+    scale0 = True
 
-    scale1 = True
+    scale1 = False
 
     scale2 = False
 
@@ -162,41 +156,6 @@ def run_tests():
 
     total_start_time = time.time()
 
-
-
-# Test plotting functions
-
-# Working Correctly!
-
-
-
-    # max_len = 10
-
-    # values = np.arange(max_len)
-
-    # names = ["blah", "crap", "sadfkad", "aef", "iou", "wow", "qwefa"]
-
-    # for i in range(5,6):
-
-        # test_points = np.zeros((max_len, i))
-
-        # test_bound = np.zeros((max_len, i))
-
-        # for j in range(i):
-
-            # test_points[:,j] = np.arange(max_len)
-
-            # test_bound[:,j] = np.arange(max_len) + max_len
-
-        # plot(test_points, values=values, bnd=test_bound, names=names)
-
-        # plot(test_points, bnd=test_bound, names=names)
-
-        # plot(test_points, values=values, names=names)
-
-    # plot_combinations(test_points, values, test_bound, names)
-
-    # exit()
 
     
 
