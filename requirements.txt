@@ -13,4 +13,5 @@ scipy==1.4.1
 simpy==4.0.1
 six==1.15.0
 sympy==1.6
+sklearn==0.0
 threadpoolctl==2.1.0
