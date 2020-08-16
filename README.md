@@ -18,7 +18,7 @@ To install the virtualenv, use the following line of code in the command window:
 2. Activate environment using `.\myenvname\Scripts\activate`
 3. Save requirements.txt files to desired folder. 
 4. Install needed environment using ` $ pip install -r requirements.txt` 
-5. Run desired project file inside virutal environment. (Note: Be sure to have pydem.py and the project file saved in the same location.)
+5. Run desired project file inside virutal environment. (Note: Be sure to have pydem.py and the project file saved in the same location. Set your path to this location in the command line or move pydem.py to the python path if applicable.)
 
 
 #### Future Notes:
